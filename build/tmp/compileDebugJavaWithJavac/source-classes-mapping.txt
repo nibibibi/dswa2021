@@ -1,0 +1,4 @@
+com/nibibibi/dswa2021/MainActivity.java
+ com.nibibibi.dswa2021.MainActivity
+com/nibibibi/dswa2021/BuildConfig.java
+ com.nibibibi.dswa2021.BuildConfig
